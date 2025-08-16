@@ -1,9 +1,4 @@
 # Orbiq Aeon
-
-<p align="center">
-  <img src="https://via.placeholder.com/500x150?text=Orbiq+Aeon+Logo" alt="Orbiq Aeon Logo" width="400"/>
-</p>
-
 <p align="center">
   <b>A new Aeon of deployment.</b><br/>
   Open. Effortless. Timeless.
