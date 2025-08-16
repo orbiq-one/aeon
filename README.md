@@ -1,10 +1,4 @@
 # Orbiq Aeon
-<p align="center">
-  <b>A new Aeon of deployment.</b><br/>
-  Open. Effortless. Timeless.
-</p>
-
----
 
 ## 🌌 About
 
